@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/jsom
 ---
 {
-	"message" : "jenkins"
+	"message" : "jenkins deployed in cloudhub"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
