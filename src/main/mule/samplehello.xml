@@ -18,7 +18,10 @@ output application/json
 ---
 {
 	"message" : "GitHub with Jenkins Integrated"
-}]]></ee:set-payload>
+
+	
+}
+</ee:set-payload>
 			</ee:message>
 		</ee:transform>
 		<logger level="INFO" doc:name="Logger" doc:id="8e3bfea2-e4ee-4a59-ae97-594b4962eafd" message="end log"/>
